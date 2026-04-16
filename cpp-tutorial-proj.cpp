@@ -16,7 +16,7 @@ int main()
     // 'counter++' is the same as saying "counter = counter + 1" for each time it loops)
     for (int counter = 1; counter < integer_variable; counter++)
     {
-        std::cout << "Loop Count = " << counter << std::endl;   //  <-- std::endl is telling the console that we want a new line after we right each time
+        std::cout << "Loop Count = " << counter << std::endl;   //  <-- std::endl is telling the console that we want a new line after we write each time
     }
 
 
